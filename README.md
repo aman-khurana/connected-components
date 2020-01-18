@@ -10,7 +10,7 @@ List of edges
 
 Connected Components of the graph in the form of list of edges, with all the nodes attached to the parent node(can also be interpreted as the id of the connected component ).
 
-
+This code was tested and benchmarked on UB's HPC center, [Center for Computational Research.](http://www.buffalo.edu/ccr.html)
 
 **References**
 
